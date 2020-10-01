@@ -9,5 +9,6 @@ The following concepts were applied in completing this project:
 * Java Swing
 * Event handling
 * Conditional branching
+* Abstract Classes
 
-This project taught me some more of the basics of checking input through text boxes, using radio buttons to set attributes of other components as well as controlling the logic of the program, and made me more comfortable using the NetBeans IDE.
+This project taught me some more of the basics of checking input through text boxes, using radio buttons to set attributes of other components as well as controlling the logic of the program, creating and extending abstract classes, and made me more comfortable using the NetBeans IDE.
